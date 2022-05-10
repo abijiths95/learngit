@@ -1,2 +1,3 @@
 Test file
 Insert line 2
+Insert line 3
